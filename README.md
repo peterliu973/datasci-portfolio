@@ -22,7 +22,7 @@ Here you’ll find a collection of projects that reflect my passion for data-dri
 ## 📫 Connect With Me
 
 - 📧 Email: pliu27@berkeley.edu
-- 💼 [LinkedIn](https://linkedin.com/in/peter-liu-8385015)
+- 💼 [LinkedIn](https://linkedin.com/in/peter-liu-8385015/)
 
 ---
 
