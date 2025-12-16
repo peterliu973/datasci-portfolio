@@ -7,14 +7,14 @@ Here you’ll find a collection of projects that reflect my passion for data-dri
 
 ## 🚀 Featured Projects
 
-| Project | Topic | Description | Link | Tech Stack |
+| Project | Topic | Description | Link | 🛠️ Tech Stack |
 |---------|-------|-------------|------|------------|
-| **1. Multi-Persona RAG System** | Multi-Persona RAG System | Developing a Retrieval-Augmented Generation (RAG) system capable of handling multi-persona dialogues for advanced conversational AI. | [View Repo](https://github.com/peterliu973/ds267-fall25) | Python, LangChain, RAGAS, LLM as a judge |
-| **2. Marathon Time Series Analysis** | Structural Breaks in Time Series Data | Detecting and interpreting structural breaks in marathon performance data using time series analysis methods. | [View Repo](https://github.com/peterliu973/ds271-fall25) | Python, matplotlib, statsmodels |
-| **3. Video Game Engagement** | Regression Analysis | Measuring and modeling player engagement, retention, and satisfaction in video games through behavioral data analysis. | [View Repo](https://github.com/peterliu973/ds203-spring25) | R, Linear Regression |
-| **4. Cart Abandonment Prediction** | Churn Prediction | Building predictive models to understand and mitigate online shopping cart abandonment, driving e-commerce optimization. | [View Repo](https://github.com/peterliu973/ds207-summer25) | Python, Logistic Regression, Random Forest, Deep Neural Network |
-| **5. Tariffs & Trade Networks** | Graph Databases | Exploring the impact of Trump-era tariffs on global trade using advanced graph database techniques and network analysis. | [View Repo](https://github.com/peterliu973/ds205-spring25) | Python, Neo4j, GraphQL, Cypher |
-| **6. County Health & Voting Patterns** | EDA / Data Viz | Analyzing the relationship between county health metrics and voting trends to uncover connections between public health and political behavior. | [View Repo](https://github.com/peterliu973/ds200-fall24) | Python, plotly, dashboard, dash, seaborn, matplotlib |
+| **1. Multi-Persona RAG System** | Multi-Persona RAG System | Developing a Retrieval-Augmented Generation (RAG) system capable of handling multi-persona dialogues for advanced conversational AI. | [View Repo](https://github.com/peterliu973/ds267-fall25) | 🐍 Python, 🔗 LangChain, 🧠 RAGAS, ⚖️ LLM as a Judge |
+| **2. Marathon Time Series Analysis** | Structural Breaks in Time Series Data | Detecting and interpreting structural breaks in marathon performance data using time series analysis methods. | [View Repo](https://github.com/peterliu973/ds271-fall25) | 🐍 Python, 📈 Statsmodels, 📊 Matplotlib |
+| **3. Video Game Engagement** | Regression Analysis | Measuring and modeling player engagement, retention, and satisfaction in video games through behavioral data analysis. | [View Repo](https://github.com/peterliu973/ds203-spring25) | ®️ R, 📐 Linear Regression |
+| **4. Cart Abandonment Prediction** | Churn Prediction | Building predictive models to understand and mitigate online shopping cart abandonment, driving e-commerce optimization. | [View Repo](https://github.com/peterliu973/ds207-summer25) | 🐍 Python, 🌳 Random Forest, 🧠 DNN |
+| **5. Tariffs & Trade Networks** | Graph Databases | Exploring the impact of Trump-era tariffs on global trade using advanced graph database techniques and network analysis. | [View Repo](https://github.com/peterliu973/ds205-spring25) | 🐍 Python, 🕸️ Neo4j, 🔗 Cypher |
+| **6. County Health & Voting Patterns** | EDA / Data Viz | Analyzing the relationship between county health metrics and voting trends to uncover connections between public health and political behavior. | [View Repo](https://github.com/peterliu973/ds200-fall24) | 🐍 Python, 🎨 Plotly, 🖥️ Dash, 📊 Seaborn |
 
 ---
 
