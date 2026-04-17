@@ -1,0 +1,9 @@
+# Abstract - Court Logic
+
+Court-Logic is a multi-agent, retrieval-augmented AI system designed to simulate Supreme Court-style legal reasoning. The project addresses a core limitation of modern language models: while they generate fluent text, they often lack structured, evidence-based reasoning. Court-Logic tackles this by orchestrating a panel of AI agents that emulate justice-aligned perspectives, engaging in constrained, multi-round debate grounded in real legal precedent.
+
+The system is built on a hybrid **Retrieval-Augmented Generation (RAG)** pipeline enhanced with a **GraphRAG knowledge graph (beta)**, enabling it to capture relationships across cases, doctrines, and judicial opinions. Its knowledge base is derived from CourtListener, ensuring that all generated arguments are anchored in authentic legal text. Outputs are structured to include debate rounds, final votes, and majority opinions, transforming the model from a text generator into an interpretable reasoning engine.
+
+Evaluation is conducted on a 13-case benchmark from the 2024–2025 U.S. Supreme Court term using a multi-dimensional framework: **Outcome Accuracy**, **Ideology Alignment**, **Key-Point Coverage**, and **Realism Score (LLM-as-judge)**, alongside RAGAS retrieval metrics. Across 22 experimental runs, performance improved from 15% to 46.2% in outcome accuracy, with corresponding gains in reasoning quality. Notably, these improvements were driven by **RAG system optimization**—including chunking strategy, retrieval depth, and prompt design—rather than model scaling.
+
+Court-Logic demonstrates that effective AI for complex decision-making depends less on larger models and more on **how knowledge is structured, retrieved, and applied**. The project offers a scalable blueprint for building explainable, debate-driven AI systems capable of producing decision-grade reasoning in law and beyond.
