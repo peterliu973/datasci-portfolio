@@ -7,7 +7,6 @@ Here you’ll find a collection of projects that reflect my passion for data-dri
 
 ## 🚀 Featured Projects
 
-https://github.com/peterliu973/datasci-portfolio
 | Project | Topic | Description | Link | 🛠️ Tech Stack |
 |---------|-------|-------------|------|------------|
 | **1. Court Logic** | Multi-Agent Legal Reasoning | A multi-agent RAG system simulating Supreme Court-style reasoning, orchestrating AI justices in debate grounded in legal precedent and real case law from CourtListener. | [View](https://github.com/peterliu973/datasci-portfolio/tree/main/mids-coursework/ds210-spring26) | 🐍 Python, 🔗 LangChain, 🕸️ GraphRAG, 🧠 LLM |
@@ -26,6 +25,7 @@ https://github.com/peterliu973/datasci-portfolio
 
 - 📧 Email: pliu27@berkeley.edu
 - 💼 [LinkedIn](https://linkedin.com/in/peter-liu-8385015/)
+- 🐙 [GitHub](https://github.com/peterliu973/datasci-portfolio)
 
 ---
 
