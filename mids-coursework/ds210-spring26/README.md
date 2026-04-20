@@ -7,3 +7,7 @@ The system is built on a hybrid **Retrieval-Augmented Generation (RAG)** pipelin
 Evaluation is conducted on a 13-case benchmark from the 2024–2025 U.S. Supreme Court term using a multi-dimensional framework: **Outcome Accuracy**, **Ideology Alignment**, **Key-Point Coverage**, and **Realism Score (LLM-as-judge)**, alongside RAGAS retrieval metrics. Across 22 experimental runs, performance improved from 15% to 46.2% in outcome accuracy, with corresponding gains in reasoning quality. Notably, these improvements were driven by **RAG system optimization**—including chunking strategy, retrieval depth, and prompt design—rather than model scaling.
 
 Court-Logic demonstrates that effective AI for complex decision-making depends less on larger models and more on **how knowledge is structured, retrieved, and applied**. The project offers a scalable blueprint for building explainable, debate-driven AI systems capable of producing decision-grade reasoning in law and beyond.
+
+<p align="center">
+  <img src="banner_ds210.jpg">
+</p>
