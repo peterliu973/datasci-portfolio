@@ -19,7 +19,9 @@ Court-Logic demonstrates that effective AI for complex decision-making depends l
 - **[Explore the Knowledge Graph →](https://www.court-logic.com/knowledge-graph)** — Interactive visualization of legal relationships and precedents
 
 <p align="center">
-  <img src="knowledge_graph.png" alt="GraphRAG Knowledge Graph Visualization">
+  <a href="https://www.court-logic.com/knowledge-graph">
+    <img src="knowledge_graph.png" alt="GraphRAG Knowledge Graph Visualization">
+  </a>
 </p>
 
 <p align="center">
