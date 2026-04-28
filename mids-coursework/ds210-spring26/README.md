@@ -11,3 +11,17 @@ Court-Logic demonstrates that effective AI for complex decision-making depends l
 <p align="center">
   <img src="banner_ds210.jpg">
 </p>
+
+## Links
+
+- **[View the Live Application →](https://www.court-logic.com)** — Experience Court-Logic in action
+- **[Read the Full Project Report →](https://www.court-logic.com/report)** — Detailed analysis and findings
+- **[Explore the Knowledge Graph →](https://www.court-logic.com/knowledge-graph)** — Interactive visualization of legal relationships and precedents
+
+<p align="center">
+  <img src="knowledge_graph.png" alt="GraphRAG Knowledge Graph Visualization">
+</p>
+
+<p align="center">
+  <em>The GraphRAG knowledge graph maps relationships across Supreme Court cases, legal doctrines, and judicial opinions. This structured representation enables Court-Logic to ground its reasoning in authentic legal precedent and identify meaningful connections across cases.</em>
+</p>

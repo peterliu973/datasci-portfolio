@@ -7,3 +7,13 @@ We evaluated multiple models, including logistic regression, XGBoost, multilayer
 <p align="center">
   <img src="banner_ds261.jpg">
 </p>
+
+**[View the Full Project Report →](FP_Project_Report.html)**
+
+<p align="center">
+  <img src="databricks.png" alt="Databricks Logo">
+</p>
+
+<p align="center">
+  <em>Analysis conducted on the Databricks platform using unified data and analytics infrastructure</em>
+</p>
