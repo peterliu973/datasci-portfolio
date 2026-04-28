@@ -9,7 +9,9 @@ Evaluation is conducted on a 13-case benchmark from the 2024–2025 U.S. Supreme
 Court-Logic demonstrates that effective AI for complex decision-making depends less on larger models and more on **how knowledge is structured, retrieved, and applied**. The project offers a scalable blueprint for building explainable, debate-driven AI systems capable of producing decision-grade reasoning in law and beyond.
 
 <p align="center">
-  <img src="banner_ds210.jpg">
+  <a href="https://www.court-logic.com">
+    <img src="banner_ds210.jpg">
+  </a>
 </p>
 
 ## Links
