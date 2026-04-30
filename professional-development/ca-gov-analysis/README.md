@@ -28,9 +28,11 @@
 </p>
 
 <p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Sp88QOTLnNg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <a href="https://www.youtube.com/watch?v=Sp88QOTLnNg" target="_blank">
+    <img src="https://img.youtube.com/vi/Sp88QOTLnNg/maxresdefault.jpg" alt="Presentation Video" width="560" height="315">
+  </a>
 </p>
 
 <p align="center">
-  <em>Presentation video: End-to-end walkthrough of the analytics pipeline architecture, modeling approach, and results.</em>
+  <em><a href="https://www.youtube.com/watch?v=Sp88QOTLnNg" target="_blank">📹 Watch Presentation Video</a> — End-to-end walkthrough of the analytics pipeline architecture, modeling approach, and results.</em>
 </p>
